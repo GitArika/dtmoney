@@ -1,4 +1,4 @@
-# Dtmoney
+# About the project
 
 ![alt text](src/assets/logo.svg)
 
