@@ -1,6 +1,6 @@
 # Dtmoney
 
-![alt text]('./src/assets/logo.svg')
+![alt text](src/assets/logo.svg)
 
 Typescript project created with create-react-app (cra).
 
